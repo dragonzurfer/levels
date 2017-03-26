@@ -1,7 +1,7 @@
 # levels
 REST framework implementation of django_levels
 
-##Build instructions
+## Build instructions
 
 1. Clone the project using the command `git clone https://github.com/dragonzurfer/levels`.
 2. Run `cd levels/django_levels` and then `cp env.py.example env.py`.
